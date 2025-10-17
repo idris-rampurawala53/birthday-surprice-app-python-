@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Birthday Surprise App — single-file Tkinter app
 
@@ -694,3 +694,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
